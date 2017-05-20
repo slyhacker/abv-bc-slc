@@ -3,7 +3,7 @@ function reverseString(str) {
 		return "";
 	
 function palindrome(str) {
-	retrun str ===st.split('').reverse().join('');
+	return str ===st.split('').reverse().join('');
 }
 
 palindrome('anna')
